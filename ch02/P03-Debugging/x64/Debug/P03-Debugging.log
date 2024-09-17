@@ -1,0 +1,4 @@
+﻿  03debug.c
+C:\Users\sj060\source\repos\ch02\P03-Debugging\03debug.c(6,2): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.
+C:\Users\sj060\source\repos\ch02\P03-Debugging\03debug.c(6,9): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\Users\sj060\source\repos\ch02\P03-Debugging\03debug.c(8,1): error C2143: 구문 오류: ')'이(가) 'return' 앞에 없습니다.
